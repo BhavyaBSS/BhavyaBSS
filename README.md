@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🔭 Working on Data Science & ML projects (health diagnosis, emotion detection)<br>
+🔭 Working on Data Science & ML projects (health diagnosis)<br>
 💻 Building Java applications (Swing + MySQL) and strengthening DSA (C++)<br>
 🌱 Learning Web Development (HTML, CSS, JS) and ML fundamentals<br>
 💬 Ask me about Data Science, Java, DSA, and Probability<br>
